@@ -3,11 +3,11 @@ filename = "gpushift-universal-1.20.1-1.2.8-bugfix.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "588a10d5e64dda589e9da35b2db2ab8cf4f7d9cee32fdbdfcc5fc441ce32c46b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BpmMSdoc/versions/uMMI11VD/gpushift-universal-1.20.1-1.2.8-bugfix.2.jar"
+hash-format = "sha512"
+hash = "432f556b6a1741ec4a0857f21109c5f80cebb7a0a4c96942adf5b83395f7a79e6b48cd4f11c82a6393d1b4ed117e69d7eaada5b233fcbf5b7f359714798aefbd"
 
 [update]
-[update.curseforge]
-file-id = 8881865
-project-id = 1533254
+[update.modrinth]
+mod-id = "BpmMSdoc"
+version = "uMMI11VD"

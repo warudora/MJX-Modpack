@@ -3,11 +3,11 @@ filename = "Yunzhu-Transit-Extension-forge-1.0.2-pre.3-hf1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "fc50d267760d640b3afd974b0926fc76aa151eb8f6f8ec5cdbbd2c77ab0f63cc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/nqMdKn6A/versions/oqUBZs69/Yunzhu-Transit-Extension-forge-1.0.2-pre.3-hf1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ca1d00abb8c71032d7445e7260b3921eb7a6793eedf9ac1d6192dc66bddefba215745a66490cb6b4ab5c10a51a68b3ad550d039cdbb03891cbc09eb1994d9abc"
 
 [update]
-[update.curseforge]
-file-id = 8769860
-project-id = 1421375
+[update.modrinth]
+mod-id = "nqMdKn6A"
+version = "oqUBZs69"

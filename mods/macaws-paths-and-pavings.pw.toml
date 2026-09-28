@@ -3,11 +3,11 @@ filename = "mcw-mcwpaths-1.1.1-mc1.20.1forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "9a809897462ca11c1920748b0fdf4555f05ef3650db1bd82016906795d068c9f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VRLhWB91/versions/yHkcTSFb/mcw-mcwpaths-1.1.1-mc1.20.1forge.jar"
+hash-format = "sha512"
+hash = "52c08de819b80616602df9350241ec37581ebbe323a779bb935c3167b698893a97df3c5190c249ec90a0beb68da4532745c89675dfc9857d1a18c20fb8c5c1cd"
 
 [update]
-[update.curseforge]
-file-id = 7029554
-project-id = 629153
+[update.modrinth]
+mod-id = "VRLhWB91"
+version = "yHkcTSFb"

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xpYjluDL/versions/o9QkXJ5D/japanitureforge-forge-1.20.1-0.0.2.jar"
-hash-format = "sha256"
-hash = "872ba6dc17f595ab1c2809ec79ce90f947ce0b818176b939a7316f2406955639"
+hash-format = "sha512"
+hash = "e0afce9ef2613d2eb7cab18fec12f2ec11c747751b0225714c6c124000fc06aac899e91dcbd6ffabd1648b5f527cf6e82463af990782c058b61a00da444bed95"
 
 [update]
 [update.modrinth]

@@ -1,13 +1,13 @@
 name = "MaFgLib"
 filename = "MaFgLib-0.1.14-mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SKI34J7B/versions/adXONMb5/MaFgLib-0.1.14-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "ae4cc220f47843fe40c2352c3fa96cc03429a244c76a4d02259d88c807f4e95897630731cdbaf8ea6e2dcc3f4a944a8214ed52a3834435466793471448c982ec"
 
 [update]
-[update.curseforge]
-file-id = 6763273
-project-id = 910766
+[update.modrinth]
+mod-id = "SKI34J7B"
+version = "adXONMb5"

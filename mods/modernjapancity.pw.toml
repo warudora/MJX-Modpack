@@ -3,11 +3,11 @@ filename = "ModernJapanCity-Forge-1.20.1-1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "94aee9dd78ff53eab28a914a1aa32e776979d8f12a51b8a782fd6e280fb8c0b5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/htWs7oGd/versions/Q91BfhuR/ModernJapanCity-Forge-1.20.1-1.0.8.jar"
+hash-format = "sha512"
+hash = "8ed0c1c1cae1d03dfb3311fc2a4b57c69cc1744ec490ae2296b8bc0c9e94336012b2343a9b2f37a341f75c29956c901d4af9d12f3f8a99ff61680aa78af135d0"
 
 [update]
-[update.curseforge]
-file-id = 6314891
-project-id = 1114661
+[update.modrinth]
+mod-id = "htWs7oGd"
+version = "Q91BfhuR"

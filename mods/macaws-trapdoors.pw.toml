@@ -3,11 +3,11 @@ filename = "mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "c2abff58334d79ea61278c6dffd941a4f4ceb5cffadf889359fd45a003738217"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/n2fvCDlM/versions/5B4awHaA/mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
+hash-format = "sha512"
+hash = "bbe9751bd9302968a5984a01d8836c1b3f2c862cbbb9a1de13268a15dd2da35d305a4a5585ec481e473bd6e06e2a9275ef5f4197368aa9f0db6275520ac100c4"
 
 [update]
-[update.curseforge]
-file-id = 7256186
-project-id = 400933
+[update.modrinth]
+mod-id = "n2fvCDlM"
+version = "5B4awHaA"

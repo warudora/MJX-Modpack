@@ -1,13 +1,13 @@
 name = "CMDCam"
-filename = "CMDCam_FORGE_v2.2.0_mc1.20.1.jar"
+filename = "CMDCam_FORGE_v2.2.1_mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "1c725f2a3c3e4b06b2438961b96b1a7d1000918d07f485f6aa10667221b4af7d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hZw3uqi3/versions/VoWJCDvm/CMDCam_FORGE_v2.2.1_mc1.20.1.jar"
+hash-format = "sha512"
+hash = "825e7e33c7c0ac06c797158f523964d62428e74eda5df9661929350e431145111f23b28dbbe11df041f414dda918ba2ea05b704a3f408529df8e281288bd8ba9"
 
 [update]
-[update.curseforge]
-file-id = 6099081
-project-id = 251244
+[update.modrinth]
+mod-id = "hZw3uqi3"
+version = "VoWJCDvm"

@@ -1,13 +1,13 @@
 name = "Sign Tools"
 filename = "signtools.forge.1.20.1-1.0.3.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "36852941514f82b6c2e34f96a4689a6fa15b016f677831c17767e9f2e9f27cc5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/31HqGqE1/versions/Rtd5j6LX/signtools.forge.1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "42f5492d1ac34a0a3cebea9cc25b31f2a5794cc40afb7c48844b6fe424539378106f4dda5ee7b2e2eb1d2a52c161728080aaeebdc40d51e3126055b09f4830a8"
 
 [update]
-[update.curseforge]
-file-id = 4646965
-project-id = 528005
+[update.modrinth]
+mod-id = "31HqGqE1"
+version = "Rtd5j6LX"
