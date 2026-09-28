@@ -3,8 +3,8 @@ filename = "reforgedplaymod-1.20.1-0.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "37b714750d0e5487b488b29ff1e1623e5bb18ed6"
+hash-format = "sha256"
+hash = "00a1f31b05db4abee5e8523ccc00aff4ec8b96b02c982386d90014276fd4604b"
 mode = "metadata:curseforge"
 
 [update]

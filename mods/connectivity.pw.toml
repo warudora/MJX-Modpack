@@ -3,8 +3,8 @@ filename = "connectivity-1.20.1-7.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ae69a0712c73411a2d804eec7abce271529e273d"
+hash-format = "sha256"
+hash = "fbfa83da5a6f5717d34068af5283ebbb9f9a2474482bc818f588cd1bdbc11acd"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "tacz-1.20.1-1.1.8-hotfix.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bddafeea4c9c1132ed720c30fbaedfe5ab25e846"
+hash-format = "sha256"
+hash = "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77"
 mode = "metadata:curseforge"
 
 [update]

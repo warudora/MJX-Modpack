@@ -3,8 +3,8 @@ filename = "ModernxlSurvival_1.3.2_v1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a038ed2d5b0d159888892690ed590d3e3c376a0f"
+hash-format = "sha256"
+hash = "c08e71e5e984495e0092e984575864642339f086e13ed9e0a9a82cd50b22dc17"
 mode = "metadata:curseforge"
 
 [update]

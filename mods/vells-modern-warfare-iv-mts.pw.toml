@@ -3,8 +3,8 @@ filename = "Vell's Modern Warfare-Beta1.0.1(1.20.1).jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0e5b7f5750d438b08fa06bd7b42294069eb4a6cd"
+hash-format = "sha256"
+hash = "46f72af494b0500ffc0a1b19ef7b7045c8489a9c934bb29c3cb41695a2ab6679"
 mode = "metadata:curseforge"
 
 [update]

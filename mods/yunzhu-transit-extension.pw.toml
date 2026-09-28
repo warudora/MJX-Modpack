@@ -3,8 +3,8 @@ filename = "Yunzhu-Transit-Extension-forge-1.0.2-pre.3-hf1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7a1019cb6d7e20467f8bf1877a2e74de004c289e"
+hash-format = "sha256"
+hash = "fc50d267760d640b3afd974b0926fc76aa151eb8f6f8ec5cdbbd2c77ab0f63cc"
 mode = "metadata:curseforge"
 
 [update]

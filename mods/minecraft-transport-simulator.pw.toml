@@ -3,8 +3,8 @@ filename = "Immersive Vehicles-1.20.1-24.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "efe6962bf0304eb7ac234daa75551bf8e30ef3b7"
+hash-format = "sha256"
+hash = "274c68a6b6cf9bd5fd97af8358ce2d58fed2a49685f20079d744e8b74800277b"
 mode = "metadata:curseforge"
 
 [update]

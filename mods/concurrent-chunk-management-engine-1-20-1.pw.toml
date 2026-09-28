@@ -3,8 +3,8 @@ filename = "c2meF-0.2.0+alpha.12-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ad44f615a4b15afd1d6a4d907ccab1c3855451a1"
+hash-format = "sha256"
+hash = "b09a9fd943f49ccaf553c236dd9871901f4c00daf20674528d67c6bbbecb16f0"
 mode = "metadata:curseforge"
 
 [update]

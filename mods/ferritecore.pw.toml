@@ -3,8 +3,8 @@ filename = "ferritecore-6.0.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+hash-format = "sha256"
+hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
 mode = "metadata:curseforge"
 
 [update]

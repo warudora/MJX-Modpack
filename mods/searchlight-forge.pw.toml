@@ -3,8 +3,8 @@ filename = "searchlight-1.20-forge-1.1.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f52e4051a5d28397f9c3e8de48e7b4a56241a3bc"
+hash-format = "sha256"
+hash = "1de423fcc98be4db7354a446c5afc962a42fc7e3d0347a823e4332efb6d5c88c"
 mode = "metadata:curseforge"
 
 [update]

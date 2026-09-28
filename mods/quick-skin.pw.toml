@@ -3,8 +3,8 @@ filename = "Quick Skin - Forge - 1.20.1-2.6.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ace85ce63a791ae84d323d469d0b76003ab32718"
+hash-format = "sha256"
+hash = "59508bb8d87a8bc8f5ad768fce86a12466fab11c512ba434834aa37a45598af9"
 mode = "metadata:curseforge"
 
 [update]

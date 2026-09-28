@@ -3,8 +3,8 @@ filename = "CMDCam_FORGE_v2.2.0_mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "77efad128734603800f65fe4c21c8958d74aff2a"
+hash-format = "sha256"
+hash = "1c725f2a3c3e4b06b2438961b96b1a7d1000918d07f485f6aa10667221b4af7d"
 mode = "metadata:curseforge"
 
 [update]

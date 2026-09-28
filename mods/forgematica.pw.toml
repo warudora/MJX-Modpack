@@ -3,8 +3,8 @@ filename = "Forgematica-0.1.13-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d235d2ac0ce0143425d4d1e3d9a32d32fc994a93"
+hash-format = "sha256"
+hash = "d2c7c9c9075ee4bd6a60e75bfcb14ea397a054ec441029960fc6890f330e539f"
 mode = "metadata:curseforge"
 
 [update]

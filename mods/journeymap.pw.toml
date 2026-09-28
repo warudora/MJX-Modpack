@@ -3,8 +3,8 @@ filename = "journeymap-forge-1.20.1-6.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a9fde70199b09c60f51a3b3e91ef782d8ad6897a"
+hash-format = "sha256"
+hash = "859b5ecd2f6b6c283b0e4bf4363bfe6ad160add389ebc4bab279c2c60302512a"
 mode = "metadata:curseforge"
 
 [update]

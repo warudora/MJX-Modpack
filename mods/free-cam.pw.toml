@@ -3,8 +3,8 @@ filename = "freecam-forge-1.2.1+1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e4224b56750a1fe3956ae73a65f4470be3e0df3b"
+hash-format = "sha256"
+hash = "8d7778cb5d181e981cb6d7c1015e3597cd5a88a18b2924386a6f8790abb239b4"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "modernfix-forge-5.27.83+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24109106b51846d387aa00c06d1445c35410c31c"
+hash-format = "sha256"
+hash = "954ff22f601be8de3978a0d7636a138dc93801c6ac55cfd71ef1cd2895de8e5f"
 mode = "metadata:curseforge"
 
 [update]

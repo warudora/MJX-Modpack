@@ -3,8 +3,8 @@ filename = "memoryleakfix-forge-1.17+-1.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9f60142dd94631800386a16a4ad70ad9e84cd78a"
+hash-format = "sha256"
+hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
 mode = "metadata:curseforge"
 
 [update]

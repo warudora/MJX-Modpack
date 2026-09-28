@@ -3,8 +3,8 @@ filename = "yuushya-1.20.1-forge-2.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4ac64e0368ea02a2271326bc41f421a31e6604a3"
+hash-format = "sha256"
+hash = "2c9585c2433958fd173f9a658e08dfc0dbbe5322fdeee3b8e0510222a159ecf1"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3fd79132dba444bd109b5de4ad75dee06a48e130"
+hash-format = "sha256"
+hash = "5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5"
 mode = "metadata:curseforge"
 
 [update]

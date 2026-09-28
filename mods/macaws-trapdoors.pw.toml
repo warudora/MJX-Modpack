@@ -3,8 +3,8 @@ filename = "mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1b3b4b40041346b19bc9ab280b288a9f6b77b513"
+hash-format = "sha256"
+hash = "c2abff58334d79ea61278c6dffd941a4f4ceb5cffadf889359fd45a003738217"
 mode = "metadata:curseforge"
 
 [update]

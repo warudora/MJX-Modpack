@@ -3,8 +3,8 @@ filename = "ModernJapanCity-Forge-1.20.1-1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5a991db52ed617e8ca96811c5ba365f030e3da79"
+hash-format = "sha256"
+hash = "94aee9dd78ff53eab28a914a1aa32e776979d8f12a51b8a782fd6e280fb8c0b5"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "embeddium-0.3.31+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+hash-format = "sha256"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
 mode = "metadata:curseforge"
 
 [update]

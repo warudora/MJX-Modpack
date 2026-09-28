@@ -3,8 +3,8 @@ filename = "MaFgLib-0.1.14-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fd18a3d8a9a72ee27cbb709a88c061b2347d2244"
+hash-format = "sha256"
+hash = "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1"
 mode = "metadata:curseforge"
 
 [update]

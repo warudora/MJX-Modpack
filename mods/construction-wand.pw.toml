@@ -3,8 +3,8 @@ filename = "constructionwand-1.20.1-2.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "80bd5223cd8984dc1038cb9f2d1cb6b97f31998a"
+hash-format = "sha256"
+hash = "b55ca6f0e734bad848adb06949675136f1d05cb4fb3efdde084c9842c40e1eec"
 mode = "metadata:curseforge"
 
 [update]

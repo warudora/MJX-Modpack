@@ -3,8 +3,8 @@ filename = "JCM-forge-2.2.5+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d2c16c9852806c4f4112874def0d67a523c4e4d8"
+hash-format = "sha256"
+hash = "2f092efe7dabe93b45c9ba737aee6834862426096285c5f97ab1072dd88a8661"
 mode = "metadata:curseforge"
 
 [update]
