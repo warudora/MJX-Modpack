@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5f4875bf3cd5889812aadf5d4fb1583a896b10bedf03d704392605d56a271bd6"
+hash = "03783bea6895d8acf198ac7d8bce4f91746659d0954f7367d0029b11963edee0"
 metafile = true
 
 [[files]]
@@ -120,8 +120,8 @@ hash = "960cd8053cb397535599d7aca1f07cba3e6d05f71bfaebc5eee4e069340e83ff"
 metafile = true
 
 [[files]]
-file = "mods/japanituremod.pw.toml"
-hash = "2e40ce7a26a9d63fb1d32f1130bc7ce28af345b81ad1de0347131be195623d81"
+file = "mods/japaniture.pw.toml"
+hash = "47208f3c09e9c82e46608595eb4e55d7ffa7a430ca8701f0ce7621ba061b4c36"
 metafile = true
 
 [[files]]
@@ -137,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/kaminari-motor-works.pw.toml"
 hash = "85400ae137eed5cafe1f77d5773a708b4b6f4a3313a8f083a0c2920c8d984d6d"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "b866dfa492c2f8a94e6864196720e1af291770b8b7600516dc4887de39336a31"
 metafile = true
 
 [[files]]
@@ -299,8 +304,9 @@ hash = "5d8b9ff36213e2dc0b0b4c9a6deeee9d11305e90d604d4af128989580f3e84ca"
 metafile = true
 
 [[files]]
-file = "mods/super_resolution-forge-1.20.1-0.9.1-alpha.1+opengl.jar"
-hash = "74b6c55ef0f58f36be19ca0e4e4feefdbd955ef91e18f6672f004fe709f16db4"
+file = "mods/superresolution.pw.toml"
+hash = "dc722fbf4f8426d14a6664de1c38eb8e1047c6a285b3706da096d89733307888"
+metafile = true
 
 [[files]]
 file = "mods/the-tube.pw.toml"

@@ -1,12 +1,11 @@
-name = "MJN-Modpack"
-author = "warudora"
+name = "MJX Modpack"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b9ff3c84394e1cdc2724e8844917a07a5c20dfcd3222bec7fbbec4fc4b7c5789"
+hash = "c13ad3880f6d65f678e0eb611004925c933acbee241e34097f32f00a0f857449"
 
 [versions]
 forge = "47.4.23"
