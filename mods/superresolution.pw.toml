@@ -11,3 +11,6 @@ hash = "9d44bd0e11ee9ad00336fa008b453a367afd5f81ab41c52b02cae5f2e5b150b15919281d
 [update.modrinth]
 mod-id = "Hf3Qz2H3"
 version = "jpfoN20r"
+
+[optional]
+optional = true

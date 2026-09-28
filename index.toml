@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Connector-1.0.0-beta.49+1.20.1.jar"
-hash = "e39acd37e162eb48cdfc6ae64776c13507a5ec3d4dd76ae4f39b5b79ca24d431"
-
-[[files]]
-file = "mods/MTR-London-Underground-Trains-forge-1.0.4-hotfix+1.20.1.jar"
-hash = "c176c2431436b13b9f2ec92d79001b8619ef5f2e89687a866e8a34658a65abc6"
-
-[[files]]
-file = "mods/WorldEditCUI-1.20+01.jar"
-hash = "6e1edd597a62bd70b552925b0d97fcee4527d93300d107554aaf087b98348f09"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -73,10 +61,6 @@ hash = "03783bea6895d8acf198ac7d8bce4f91746659d0954f7367d0029b11963edee0"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api-0.92.6+1.11.15+1.20.1.jar"
-hash = "3dd3f93c31122d928297220601f521e6a8a20356bafc7819bf4ddce4c2bb085d"
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "a9102d609587827231935f8fb6f2998c082e84ba4e4af69c8164a6cc7a95d10a"
 metafile = true
@@ -105,14 +89,6 @@ metafile = true
 file = "mods/gaming-furniture.pw.toml"
 hash = "b8d9641e4113ba7558b61118fa46d289b237623cd3727cf67895ef5dd36ae344"
 metafile = true
-
-[[files]]
-file = "mods/gamingfurniture-g5-x1024-forge-1.20.1.jar"
-hash = "0cc62de73306bf1736f61bb9f28d4a4b8dd009a5e39753f53a0b490fa4d835af"
-
-[[files]]
-file = "mods/gamingfurniture-g5-x1024-forge-1.20.1.jar.duplicate"
-hash = "0cc62de73306bf1736f61bb9f28d4a4b8dd009a5e39753f53a0b490fa4d835af"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -245,10 +221,6 @@ hash = "f35748c9b332d0ff68203197dd648b9daf9b8e1c4060a3222d3e91cd08860637"
 metafile = true
 
 [[files]]
-file = "mods/modernfurniture-e5-x512-forge-1.20.1.jar"
-hash = "0e93a63c53554594accbf2eac3d8591c5330f0e5b825711099affc5bd3312c9d"
-
-[[files]]
 file = "mods/modernjapancity.pw.toml"
 hash = "9b808afa6eb78a31b3dfb6c1977e4988155064d41dfb65c228db8099078392bb"
 metafile = true
@@ -334,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/superresolution.pw.toml"
-hash = "aa6f38c4fb833c390cacf7f0b7f07d0820539e0724a6f42f72cca04909daf2c1"
+hash = "143d8e2c4b566b13748daa90b13ae252f6c2a6b5c18ba0d20bbdb950bbfc1154"
 metafile = true
 
 [[files]]
