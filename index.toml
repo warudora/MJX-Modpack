@@ -33,6 +33,11 @@ hash = "704e948a5cbc6b434f46ee6849d1c8f0e42e4c00b2b35bbb0cd83cbb2b120262"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "28ec0fe825391261f68b2de4f7719f29dbc7b8c5a02876e6acfde975375cf3f4"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "f0a3b2a75840024a3dfc03dc073b20e61aa41cf939cef2698308029a5f870c35"
 metafile = true
@@ -82,6 +87,11 @@ hash = "e3017a1b798d295fb73a1b63b1bf9be067adfcf7a79fdcbc919bb8ffddbdbcb9"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "834dfc3eac7e8cbfe203578f1120ba298711f0426133950ce8972f5afc025a4d"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "9fd68ed0b2b69ddabb1cc6c6c13251c4894a7a017cdd80032d92759954270e15"
 metafile = true
@@ -89,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/free-cam.pw.toml"
 hash = "f5641aa596c91c448b528a37a973e07e9ea60ab4945f6757c432cfc57aa9869d"
+metafile = true
+
+[[files]]
+file = "mods/gaming-furniture.pw.toml"
+hash = "b8d9641e4113ba7558b61118fa46d289b237623cd3727cf67895ef5dd36ae344"
 metafile = true
 
 [[files]]
@@ -220,6 +235,11 @@ hash = "2f109d6172c01b32d19f45ead988963266cb4314e0317b2a52eaca612441ac1b"
 metafile = true
 
 [[files]]
+file = "mods/modern-furniture.pw.toml"
+hash = "1a5498a1327c1c2a19c1e8fa470359ce2ebbc3ef5c173b82520ef7c29c2576e7"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f35748c9b332d0ff68203197dd648b9daf9b8e1c4060a3222d3e91cd08860637"
 metafile = true
@@ -241,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+metafile = true
+
+[[files]]
+file = "mods/mtr-london-underground-trains.pw.toml"
+hash = "f8153bf8c188319e3696f5d3bccb14e4e041c0f694d4bafdca5b50b31067af45"
 metafile = true
 
 [[files]]
@@ -340,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "15a0f98dacca9c151c525b76ca8518f5a92939e9db957d8b0f5fe7bcf190dbec"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "bc6b6c847c51928cc2a716aca4c3e10bf300643554ee43a8476516adcf801f86"
 metafile = true
 
 [[files]]

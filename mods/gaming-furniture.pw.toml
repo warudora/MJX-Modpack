@@ -1,0 +1,13 @@
+name = "Gaming Furniture"
+filename = "gamingfurniture-g5-x128-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gNk5O2Js/versions/KBjROHvX/gamingfurniture-g5-x128-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "002906fd9d9f1f9c4b89f11970cbbbf27075a6d98c6e91f1ff92f31fd0a0ef99bfcfdad5ae1c45b8613e28f8bd34996ce2f5572e9c554c0ccb00de95a1c03e04"
+
+[update]
+[update.modrinth]
+mod-id = "gNk5O2Js"
+version = "KBjROHvX"

@@ -1,0 +1,13 @@
+name = "Modern Furniture"
+filename = "modernfurniture-e5-x128-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S73BM7t2/versions/GCpnydXg/modernfurniture-e5-x128-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "b959e4e19a1264d19652ecf6aeb7cf81f5caad43af9b54caefae3e5215abf044b497d6b40fbf903a81375a145f9f641793706e11b2233e2fedbe3bfe2c8322b4"
+
+[update]
+[update.modrinth]
+mod-id = "S73BM7t2"
+version = "GCpnydXg"
