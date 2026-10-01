@@ -106,11 +106,6 @@ hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
-metafile = true
-
-[[files]]
 file = "mods/japaniture.pw.toml"
 hash = "47208f3c09e9c82e46608595eb4e55d7ffa7a430ca8701f0ce7621ba061b4c36"
 metafile = true
@@ -211,6 +206,10 @@ hash = "2f109d6172c01b32d19f45ead988963266cb4314e0317b2a52eaca612441ac1b"
 metafile = true
 
 [[files]]
+file = "mods/mjxservice-1.0.2.jar"
+hash = "e1492265a01f909b6de42575b0a0fa68e20c2c2bc47aa0cf6a1a7bc1b7483856"
+
+[[files]]
 file = "mods/modern-furniture.pw.toml"
 hash = "1a5498a1327c1c2a19c1e8fa470359ce2ebbc3ef5c173b82520ef7c29c2576e7"
 metafile = true
@@ -244,10 +243,6 @@ metafile = true
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
-
-[[files]]
-file = "mods/packwiz_toml_to_modrinth_importer.ps1"
-hash = "de5288905ad41a5f801a76ba2e8ede262b2593eb8724f48d505b541530e64197"
 
 [[files]]
 file = "mods/polymorph.pw.toml"
@@ -302,11 +297,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/superresolution.pw.toml"
-hash = "143d8e2c4b566b13748daa90b13ae252f6c2a6b5c18ba0d20bbdb950bbfc1154"
 metafile = true
 
 [[files]]
