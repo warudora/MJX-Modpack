@@ -320,6 +320,11 @@ hash = "d45dc47dbcb2dc69bf3137ab589cc33ab887e09fab948475e8e507fedfc3139c"
 metafile = true
 
 [[files]]
+file = "mods/wablock.pw.toml"
+hash = "5cb304f132cbe3190f754950c9e1a775043de40e8694077be102a76b0e92a40b"
+metafile = true
+
+[[files]]
 file = "mods/wacanvas.pw.toml"
 hash = "c0b113edbbf0572748d90409f3bc9cfebfc7cfb42a42184d97968978eb655205"
 metafile = true
