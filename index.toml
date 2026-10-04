@@ -111,8 +111,13 @@ hash = "47208f3c09e9c82e46608595eb4e55d7ffa7a430ca8701f0ce7621ba061b4c36"
 metafile = true
 
 [[files]]
+file = "mods/japansuburbia.pw.toml"
+hash = "21fe0232b703dcb2be079a402ef4d44c03a4f40af06e6e1bd6b4eae1f833ad37"
+metafile = true
+
+[[files]]
 file = "mods/jcm.pw.toml"
-hash = "dc04a18d371e5b3593dadc6bfe67a50e8328920b6c107c4d976f248e8d9d4333"
+hash = "404f4ea93e36f16c5cc14c24978f255af85837d15c33cef89da6505d75fe9997"
 metafile = true
 
 [[files]]

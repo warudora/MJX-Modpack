@@ -1,0 +1,13 @@
+name = "JapanSuburbia"
+filename = "japansuburbia-0.1.2-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "865c7ffa091295efb4110ae84e088a2c2631647c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9025288
+project-id = 1709771
