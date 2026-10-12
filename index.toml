@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Metropolis-forge-1.20.1-0.4.6-mtr4-forge-fix2.jar"
+hash = "50146ba5d3ea86282716d27f052aa15870f27085e3be569414e82e5026f09541"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
