@@ -214,8 +214,8 @@ hash = "2f109d6172c01b32d19f45ead988963266cb4314e0317b2a52eaca612441ac1b"
 metafile = true
 
 [[files]]
-file = "mods/mjxservice-1.0.6.jar"
-hash = "88977a596870c1ebc1153c75445b90014bb289c5e1a94c3077794441c2a5782f"
+file = "mods/mjxservice-1.0.7.jar"
+hash = "497b0c5eba382e6457f786be0910304d9ab913b7a6ebc357a39831530f72d51b"
 
 [[files]]
 file = "mods/modern-furniture.pw.toml"
