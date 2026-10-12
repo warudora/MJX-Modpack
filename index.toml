@@ -110,9 +110,8 @@ hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
-file = "mods/japaniture.pw.toml"
-hash = "47208f3c09e9c82e46608595eb4e55d7ffa7a430ca8701f0ce7621ba061b4c36"
-metafile = true
+file = "mods/japanituremod-forge-4.0.0.jar"
+hash = "79712bac98c5783e73aecfb08111501b9273db703f8298fa2c0250481ca7c8d0"
 
 [[files]]
 file = "mods/japansuburbia.pw.toml"
