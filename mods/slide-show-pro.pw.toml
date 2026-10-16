@@ -1,0 +1,13 @@
+name = "Slide Show Pro"
+filename = "slideshow_pro-forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P6nYxysS/versions/zngMDOin/slideshow_pro-forge-1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "7ff0d4b571c79c1f14f1160f81338ff6271fbd9741bdb6e4409e0fd1593c44f812f976011c015fd53eebd162f3d0c825fc722f3498138d420e561c7029471019"
+
+[update]
+[update.modrinth]
+mod-id = "P6nYxysS"
+version = "zngMDOin"

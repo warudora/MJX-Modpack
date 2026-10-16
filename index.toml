@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/japanituremod-forge-4.0.0.jar"
-hash = "79712bac98c5783e73aecfb08111501b9273db703f8298fa2c0250481ca7c8d0"
+hash = "c08d663d87aa9341058935a6bc02d87f16b49da40898c842e31a1e0f346d47c3"
 
 [[files]]
 file = "mods/japansuburbia.pw.toml"
@@ -214,8 +214,8 @@ hash = "2f109d6172c01b32d19f45ead988963266cb4314e0317b2a52eaca612441ac1b"
 metafile = true
 
 [[files]]
-file = "mods/mjxservice-1.0.7.jar"
-hash = "497b0c5eba382e6457f786be0910304d9ab913b7a6ebc357a39831530f72d51b"
+file = "mods/mjxservice-1.0.8.jar"
+hash = "fbb55032945090e4a92fbf5130856ddb6bd50144b8750be7102d9f1212d9c55a"
 
 [[files]]
 file = "mods/modern-furniture.pw.toml"
@@ -298,6 +298,11 @@ hash = "2edb8d2462dfc441aa635b9efa2de30c2c70b7233f3354d71ff406129b7176a2"
 metafile = true
 
 [[files]]
+file = "mods/slide-show-pro.pw.toml"
+hash = "3a4c24b593315c81f14e5572e055fd61d1cd10ae97d0c273303b5aadb9ca4c9d"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
 metafile = true
@@ -329,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/wablock.pw.toml"
-hash = "5cb304f132cbe3190f754950c9e1a775043de40e8694077be102a76b0e92a40b"
+hash = "89260ce1c5b9e1cb577bcb8738b553a0f3f4c5621be9ec4445ab4f0fd19e5489"
 metafile = true
 
 [[files]]
