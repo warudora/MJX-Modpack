@@ -1,0 +1,12 @@
+name = "yunbeiuc"
+filename = "yunbeiuc-forge-1.0.0-26w40d.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h8ROlzCI/versions/ZVDrReNS/yunbeiuc-forge-1.0.0-26w40d.jar"
+hash-format = "sha512"
+hash = "2495c9e307af343b3ec8c89cdacaef45972b899c0dbaa6c8efb9be6730bbd1c9033a892b6e889ab6be55d706302911b25685067f78b9378c6dfe225609d71c29"
+
+[update.modrinth]
+mod-id = "h8ROlzCI"
+version = "ZVDrReNS"

@@ -1,0 +1,12 @@
+name = "mtr-japan-ticket-mod"
+filename = "mtr-japan-ticket-mod-1.20.1-6.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4JZgUlpj/versions/3F4lio1S/mtr-japan-ticket-mod-1.20.1-6.1.0.jar"
+hash-format = "sha512"
+hash = "a692f4aa787e4f0d365b2b7e1c6162589940f6330bd6a3594a39404e07e764a1b8d0f4f8662b990c880cb194afba06996a811a0e47f637d7cdc18cfee397908c"
+
+[update.modrinth]
+mod-id = "4JZgUlpj"
+version = "3F4lio1S"

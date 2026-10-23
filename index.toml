@@ -214,10 +214,6 @@ hash = "2f109d6172c01b32d19f45ead988963266cb4314e0317b2a52eaca612441ac1b"
 metafile = true
 
 [[files]]
-file = "mods/mjxservice-1.0.8.jar"
-hash = "fbb55032945090e4a92fbf5130856ddb6bd50144b8750be7102d9f1212d9c55a"
-
-[[files]]
 file = "mods/modern-furniture.pw.toml"
 hash = "1a5498a1327c1c2a19c1e8fa470359ce2ebbc3ef5c173b82520ef7c29c2576e7"
 metafile = true
@@ -360,4 +356,33 @@ metafile = true
 [[files]]
 file = "mods/yuushya-townscape.pw.toml"
 hash = "97ea274ebe99be93e0cf572310c54d35c50c3da607443e2ddd45f9d3038805b9"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash-format = "sha256"
+hash = "b3fef710b258773c51fc4e62ba83da81f8745e9a656b6fc0bcaa7a06f220adf7"
+metafile = true
+
+[[files]]
+file = "mods/mjxservice-1.1.3.jar"
+hash-format = "sha256"
+hash = "69d8cede40aac2662af1442b95a05b7c40b86cd0cc088470322ddea546aa5946"
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash-format = "sha256"
+hash = "e7c7d170a647b8eb4a6772925686603d2c9ced03aed9d655cc7ea155fbde47dc"
+metafile = true
+
+[[files]]
+file = "mods/yunbeiuc.pw.toml"
+hash-format = "sha256"
+hash = "42a7c9a2e6ce62b2456a85a1adab167cf752bfd484876c729bd27f261a01adf0"
+metafile = true
+
+[[files]]
+file = "mods/mtr-japan-ticket-mod.pw.toml"
+hash-format = "sha256"
+hash = "c48ddae86d3c38dcb404dbf4025ba75af5bccf99c1e6ae8de6c8676d804535f5"
 metafile = true
