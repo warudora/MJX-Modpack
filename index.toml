@@ -376,12 +376,6 @@ hash = "e7c7d170a647b8eb4a6772925686603d2c9ced03aed9d655cc7ea155fbde47dc"
 metafile = true
 
 [[files]]
-file = "mods/yunbeiuc.pw.toml"
-hash-format = "sha256"
-hash = "42a7c9a2e6ce62b2456a85a1adab167cf752bfd484876c729bd27f261a01adf0"
-metafile = true
-
-[[files]]
 file = "mods/mtr-japan-ticket-mod.pw.toml"
 hash-format = "sha256"
 hash = "c48ddae86d3c38dcb404dbf4025ba75af5bccf99c1e6ae8de6c8676d804535f5"
