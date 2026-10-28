@@ -377,13 +377,13 @@ hash = "c48ddae86d3c38dcb404dbf4025ba75af5bccf99c1e6ae8de6c8676d804535f5"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.pw.toml"
-hash-format = "sha256"
-hash = "b7e778749ef3657a0717b685f7d11ba70196ec195423bbc4a08cbd95d06a4fda"
-metafile = true
-
-[[files]]
 file = "mods/jcm.pw.toml"
 hash-format = "sha256"
 hash = "974fffe62913a80398fd85010099946446bd734541b12798d5ecd42b6fd8c116"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash-format = "sha256"
+hash = "d5d9843aaf578017f61d1517f09814178138b1f57ad465336f4ec99e68b066cf"
 metafile = true
