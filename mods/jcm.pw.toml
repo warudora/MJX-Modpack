@@ -1,13 +1,12 @@
-name = "MTR: JCM"
-filename = "JCM-forge-2.2.6+1.20.1.jar"
+name = "jcm"
+filename = "JCM-forge-2.3.0-prerelease.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9cc878e85e1226bff5c15dbf8c5452ee8cb43818"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/6NhEcal4/JCM-forge-2.3.0-prerelease.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ce96774a719a474de46c838772d117e619f7a20640f2389ba90d6ff4431ac84e478ee03fbc29ecba15204db50e065499c9de1db64e39f9c38fe18c07f0120935"
 
-[update]
-[update.curseforge]
-file-id = 9048393
-project-id = 1316710
+[update.modrinth]
+mod-id = "lQqKCDhg"
+version = "6NhEcal4"

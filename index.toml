@@ -119,11 +119,6 @@ hash = "21fe0232b703dcb2be079a402ef4d44c03a4f40af06e6e1bd6b4eae1f833ad37"
 metafile = true
 
 [[files]]
-file = "mods/jcm.pw.toml"
-hash = "404f4ea93e36f16c5cc14c24978f255af85837d15c33cef89da6505d75fe9997"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "93647c37b34dcdbe661d185743ef67ec78425a49ef5545a11b95af7a2d1beecf"
 metafile = true
@@ -379,4 +374,16 @@ metafile = true
 file = "mods/mtr-japan-ticket-mod.pw.toml"
 hash-format = "sha256"
 hash = "c48ddae86d3c38dcb404dbf4025ba75af5bccf99c1e6ae8de6c8676d804535f5"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash-format = "sha256"
+hash = "b7e778749ef3657a0717b685f7d11ba70196ec195423bbc4a08cbd95d06a4fda"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash-format = "sha256"
+hash = "974fffe62913a80398fd85010099946446bd734541b12798d5ecd42b6fd8c116"
 metafile = true
