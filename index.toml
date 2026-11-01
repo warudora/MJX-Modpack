@@ -119,11 +119,6 @@ hash = "21fe0232b703dcb2be079a402ef4d44c03a4f40af06e6e1bd6b4eae1f833ad37"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "93647c37b34dcdbe661d185743ef67ec78425a49ef5545a11b95af7a2d1beecf"
-metafile = true
-
-[[files]]
 file = "mods/kaminari-motor-works.pw.toml"
 hash = "3b95b426736fd5aad6e1e94b9a82cb25c0713168c0b8cf7ef0e77d28e3d31a82"
 metafile = true
@@ -386,4 +381,10 @@ metafile = true
 file = "mods/createaddition.pw.toml"
 hash-format = "sha256"
 hash = "d5d9843aaf578017f61d1517f09814178138b1f57ad465336f4ec99e68b066cf"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash-format = "sha256"
+hash = "96a4e9f409468dc526e02c7cbbf2fbdae163033ab4d49793ceac273101ca27fa"
 metafile = true

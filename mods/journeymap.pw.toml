@@ -1,13 +1,19 @@
-name = "JourneyMap"
-filename = "journeymap-forge-1.20.1-6.0.6.jar"
+name = "journeymap"
+filename = "journeymap-forge-1.20.1-6.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/gryqmTt2/journeymap-forge-1.20.1-6.0.6.jar"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/HWDC99DO/journeymap-forge-1.20.1-6.0.7.jar"
 hash-format = "sha512"
-hash = "93632c936b71c62513906a3405f16825850a933c8a8e432b0d30ead6bbdd71d08843d85524ab300d29c5fe7d123e18653ab1607f1846d7f5afbe105d5a5ff739"
+hash = "93f8514bb8bb24f31b67991940a2075ef9889e3eff2e57a6c1bc98828e3315c37d96c025e73318a2209602bfea71a0b3d2fd415bb347076b0c8a1daafae11746"
 
-[update]
 [update.modrinth]
 mod-id = "lfHFW1mp"
-version = "gryqmTt2"
+version = "HWDC99DO"
+
+[option]
+optional = true
+default = false
+description = """
+地図・ウェイポイントmod。
+Map and waypoint mod."""
