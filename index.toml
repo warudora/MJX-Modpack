@@ -349,12 +349,6 @@ hash = "97ea274ebe99be93e0cf572310c54d35c50c3da607443e2ddd45f9d3038805b9"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash-format = "sha256"
-hash = "b3fef710b258773c51fc4e62ba83da81f8745e9a656b6fc0bcaa7a06f220adf7"
-metafile = true
-
-[[files]]
 file = "mods/mjxservice-1.1.3.jar"
 hash-format = "sha256"
 hash = "69d8cede40aac2662af1442b95a05b7c40b86cd0cc088470322ddea546aa5946"
@@ -387,4 +381,10 @@ metafile = true
 file = "mods/journeymap.pw.toml"
 hash-format = "sha256"
 hash = "96a4e9f409468dc526e02c7cbbf2fbdae163033ab4d49793ceac273101ca27fa"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash-format = "sha256"
+hash = "203446e1f625cb134bc07bc12af7ad000d769b1daf029de2b27a7369ed2dc2b7"
 metafile = true
