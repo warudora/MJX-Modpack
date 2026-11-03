@@ -1,0 +1,16 @@
+name = "quickskin"
+filename = "fabric-quickskin-mod-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bjZ5YObH/versions/KIW65cfU/fabric-quickskin-mod-1.2.2.jar"
+hash-format = "sha512"
+hash = "4654bf0de5b80da28f43f08ff2cd5514d3cdb09daffeddb3ba23e54d6acd87c0679447fb928c516e167c0fe7ab17303b655931c4bada51b9010379f4483062a5"
+
+[update.modrinth]
+mod-id = "bjZ5YObH"
+version = "KIW65cfU"
+
+[option]
+optional = true
+default = false

@@ -11,8 +11,9 @@ metafile = true
 
 [[files]]
 file = "mods/cmdcam.pw.toml"
-hash = "56f96ad7dec0ea07ac9c1210a2948d85aa49add00bf11671d22f934180f6b2ab"
+hash = "afcf0a9a553074d3b5fd3869f5c445b89bb0c2e47647ba7ba84d80afbfffcbf7"
 metafile = true
+hash-format = "sha256"
 
 [[files]]
 file = "mods/concurrent-chunk-management-engine-1-20-1.pw.toml"
@@ -71,8 +72,9 @@ metafile = true
 
 [[files]]
 file = "mods/forgematica.pw.toml"
-hash = "e3017a1b798d295fb73a1b63b1bf9be067adfcf7a79fdcbc919bb8ffddbdbcb9"
+hash = "c2adfa64829cca2262fac65931e54180ebbd0f0a4c47757c5c4109c875537936"
 metafile = true
+hash-format = "sha256"
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
@@ -82,11 +84,6 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "9fd68ed0b2b69ddabb1cc6c6c13251c4894a7a017cdd80032d92759954270e15"
-metafile = true
-
-[[files]]
-file = "mods/free-cam.pw.toml"
-hash = "f5641aa596c91c448b528a37a973e07e9ea60ab4945f6757c432cfc57aa9869d"
 metafile = true
 
 [[files]]
@@ -235,8 +232,9 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+hash = "5c50a0a81ffd0cb803870ff3a513fb1d54057a59caf147540a22b35b4c30a6c5"
 metafile = true
+hash-format = "sha256"
 
 [[files]]
 file = "mods/polymorph.pw.toml"
@@ -295,8 +293,9 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+hash = "b467f1d2d30dcaec4ff006cfa5a04cc5db2c6ec760b56414f7d0eb16f8042953"
 metafile = true
+hash-format = "sha256"
 
 [[files]]
 file = "mods/the-tube.pw.toml"
@@ -387,4 +386,16 @@ metafile = true
 file = "mods/jade.pw.toml"
 hash-format = "sha256"
 hash = "203446e1f625cb134bc07bc12af7ad000d769b1daf029de2b27a7369ed2dc2b7"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash-format = "sha256"
+hash = "7c6505b64ca78939576bcc60cd788b2d4583eb1d8d085e6ca7db05b659c84434"
+metafile = true
+
+[[files]]
+file = "mods/quickskin.pw.toml"
+hash-format = "sha256"
+hash = "dfd2f74d29d16321449b5ce73e903d594645abc9cdcdc0400b22e721785dac4a"
 metafile = true
