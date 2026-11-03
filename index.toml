@@ -107,10 +107,6 @@ hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
-file = "mods/japanituremod-forge-4.0.0.jar"
-hash = "c08d663d87aa9341058935a6bc02d87f16b49da40898c842e31a1e0f346d47c3"
-
-[[files]]
 file = "mods/japansuburbia.pw.toml"
 hash = "21fe0232b703dcb2be079a402ef4d44c03a4f40af06e6e1bd6b4eae1f833ad37"
 metafile = true
@@ -398,4 +394,10 @@ metafile = true
 file = "mods/quickskin.pw.toml"
 hash-format = "sha256"
 hash = "dfd2f74d29d16321449b5ce73e903d594645abc9cdcdc0400b22e721785dac4a"
+metafile = true
+
+[[files]]
+file = "mods/japaniture.pw.toml"
+hash-format = "sha256"
+hash = "578f74155dda19dc47e3b62ac2cc259aea7a01f8e10b7002d6ddaab08c811667"
 metafile = true

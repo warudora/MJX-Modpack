@@ -1,0 +1,12 @@
+name = "japaniture"
+filename = "japanituremod-forge-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xpYjluDL/versions/pAtin74e/japanituremod-forge-4.0.1.jar"
+hash-format = "sha512"
+hash = "9c41744c72de507d34d55a10e7f58fe8d287d567117c404556dee10ab3ed49a91338710926aeb1e9a0952c8e52cc8447cadf2f3e4b46dda8614d436706fa8a9f"
+
+[update.modrinth]
+mod-id = "xpYjluDL"
+version = "pAtin74e"
