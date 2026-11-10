@@ -57,8 +57,9 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+hash = "e1bcdb021b16eb3d726dcffa728b3e26c6c021202b691c4af9a294f707867c5f"
 metafile = true
+hash-format = "sha256"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
