@@ -420,3 +420,9 @@ file = "mods/effortless-building.pw.toml"
 hash-format = "sha256"
 hash = "0a2e3d897afbc37fca9be10167b6c4ebdc648e3df408b6d8acb309e63be50c2f"
 metafile = true
+
+[[files]]
+file = "mods/lr-tactical.pw.toml"
+hash-format = "sha256"
+hash = "1b3e8f6c401092e40d2fc545cdbca76e25ccc0b78f63cd26ba23152297bc456a"
+metafile = true
