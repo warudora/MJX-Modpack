@@ -1,0 +1,12 @@
+name = "station-decoration"
+filename = "MSD-forge-1.20.1-4.0.5-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AM3NyLOZ/versions/HW6Mmnny/MSD-forge-1.20.1-4.0.5-1.4.5.jar"
+hash-format = "sha512"
+hash = "90568117cd03c199127e31e57ebe73efff375b75b25777affae14d909cafadd20ab17b2a3db0e9793bed47d342cd2885e8abc6a7f9f72030a04aab54990d7a72"
+
+[update.modrinth]
+mod-id = "AM3NyLOZ"
+version = "HW6Mmnny"

@@ -402,3 +402,21 @@ file = "mods/japaniture.pw.toml"
 hash-format = "sha256"
 hash = "578f74155dda19dc47e3b62ac2cc259aea7a01f8e10b7002d6ddaab08c811667"
 metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash-format = "sha256"
+hash = "7ab75fc77f2304df6b57ea3ac253f7cfd2cb1a83ea83f8e7330f6ccd167fec9e"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash-format = "sha256"
+hash = "95c1315c7a87e7fc014c8c946b987442b44bff8d2cd7b03b152864e7540ef195"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash-format = "sha256"
+hash = "0a2e3d897afbc37fca9be10167b6c4ebdc648e3df408b6d8acb309e63be50c2f"
+metafile = true
