@@ -1,0 +1,12 @@
+name = "lr-tactical"
+filename = "lrtactical-forge-1.20.1-0.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AiwNM9O0/versions/6R4xXztr/lrtactical-forge-1.20.1-0.4.4.jar"
+hash-format = "sha512"
+hash = "bc88b9d68451584438740ca5a87068bc623c9dc1de8aa086a0d2276a4adbf9106550038b85b963d2eb78e82241b9b4f6db102fe1578f533af0588b583db94416"
+
+[update.modrinth]
+mod-id = "AiwNM9O0"
+version = "6R4xXztr"
