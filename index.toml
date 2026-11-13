@@ -300,11 +300,6 @@ hash = "35ab34f103c67280fa1f3220e638f6662cae367129ca3ee6abcd6fdbb15da888"
 metafile = true
 
 [[files]]
-file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "267ef1d8c84025c3e53a62f77825a4ce9740f7ca126c1cdd5c660b91cde33889"
-metafile = true
-
-[[files]]
 file = "mods/transport-simulator-official-vehicle-set.pw.toml"
 hash = "6e7a5caf8a4a2c490af6482e1d88cd5b449aa78bf45592227688e964976282be"
 metafile = true
@@ -425,4 +420,10 @@ metafile = true
 file = "mods/lr-tactical.pw.toml"
 hash-format = "sha256"
 hash = "1b3e8f6c401092e40d2fc545cdbca76e25ccc0b78f63cd26ba23152297bc456a"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash-format = "sha256"
+hash = "9dbf17aff4b89806b5fa06829a6ca8327d6eaedddbd4ac5a7055e07903be72a6"
 metafile = true
