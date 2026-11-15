@@ -1,4 +1,4 @@
-name = "journeymap"
+name = "JourneyMap"
 filename = "journeymap-forge-1.20.1-6.0.7.jar"
 side = "both"
 
@@ -14,6 +14,4 @@ version = "HWDC99DO"
 [option]
 optional = true
 default = false
-description = """
-地図・ウェイポイントmod。
-Map and waypoint mod."""
+description = "Real-time map used for mapping in-game or your browser as you explore."

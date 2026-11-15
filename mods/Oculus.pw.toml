@@ -1,6 +1,6 @@
-name = "oculus"
+name = "Oculus"
 filename = "oculus-mc1.20.1-1.8.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar"
@@ -14,3 +14,4 @@ version = "iQ1SwGc3"
 [option]
 optional = true
 default = false
+description = 'Unofficial Fork of "Iris", made to work with FML'

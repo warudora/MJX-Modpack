@@ -1,4 +1,4 @@
-name = "cmdcam"
+name = "CMDCam"
 filename = "CMDCam_FORGE_v2.2.1_mc1.20.1.jar"
 side = "both"
 
@@ -14,3 +14,4 @@ version = "VoWJCDvm"
 [option]
 optional = true
 default = false
+description = "Be camera & actor at the same time - Smooth camera paths"

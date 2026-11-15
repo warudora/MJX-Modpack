@@ -1,6 +1,6 @@
-name = "embeddium"
+name = "Embeddium"
 filename = "embeddium-0.3.31+mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
@@ -14,6 +14,4 @@ version = "UTbfe5d1"
 [option]
 optional = true
 default = true
-description = """
-最適化mod。
-Optimization mod."""
+description = "A powerful, mod-friendly, FOSS client performance mod for NeoForge"
