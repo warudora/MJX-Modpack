@@ -1,4 +1,4 @@
-name = "jade"
+name = "Jade 🔍"
 filename = "Jade-1.20.1-Forge-11.13.3.jar"
 side = "both"
 
@@ -14,6 +14,4 @@ version = "xJQHCmWJ"
 [option]
 optional = true
 default = false
-description = """
-アイテム情報を確認できるMod。
-A mod that allows you to view item information."""
+description = "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)"

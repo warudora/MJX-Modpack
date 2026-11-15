@@ -1,6 +1,6 @@
-name = "forgematica"
+name = "Forgematica"
 filename = "Forgematica-0.1.13-mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/dCKRaeBC/versions/YncE2C0Y/Forgematica-0.1.13-mc1.20.1.jar"
@@ -14,3 +14,4 @@ version = "YncE2C0Y"
 [option]
 optional = true
 default = false
+description = "Litematica unofficial (Neo)Forge port. A modern client-side schematic mod for Minecraft."

@@ -10,12 +10,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/cmdcam.pw.toml"
-hash = "afcf0a9a553074d3b5fd3869f5c445b89bb0c2e47647ba7ba84d80afbfffcbf7"
-metafile = true
-hash-format = "sha256"
-
-[[files]]
 file = "mods/concurrent-chunk-management-engine-1-20-1.pw.toml"
 hash = "e8a455779dd9974e5eeb4833fb7b3b22464cd1b4b93ddbbe802e02ca7106fd4e"
 metafile = true
@@ -56,11 +50,6 @@ hash = "38a78dfb89cf6199d9bd86364eda843c664daa348f3a52ff22bffd9fdb0390fe"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "03783bea6895d8acf198ac7d8bce4f91746659d0954f7367d0029b11963edee0"
 metafile = true
@@ -69,12 +58,6 @@ metafile = true
 file = "mods/ferritecore.pw.toml"
 hash = "a9102d609587827231935f8fb6f2998c082e84ba4e4af69c8164a6cc7a95d10a"
 metafile = true
-
-[[files]]
-file = "mods/forgematica.pw.toml"
-hash = "c2adfa64829cca2262fac65931e54180ebbd0f0a4c47757c5c4109c875537936"
-metafile = true
-hash-format = "sha256"
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
@@ -227,12 +210,6 @@ hash = "f8153bf8c188319e3696f5d3bccb14e4e041c0f694d4bafdca5b50b31067af45"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "5c50a0a81ffd0cb803870ff3a513fb1d54057a59caf147540a22b35b4c30a6c5"
-metafile = true
-hash-format = "sha256"
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "ea8571ba9dc8e74bad5e4257d50e9bb80d02be8f3d5de7fe3dede969e26fa15c"
 metafile = true
@@ -288,19 +265,8 @@ hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "b467f1d2d30dcaec4ff006cfa5a04cc5db2c6ec760b56414f7d0eb16f8042953"
-metafile = true
-hash-format = "sha256"
-
-[[files]]
 file = "mods/the-tube.pw.toml"
 hash = "35ab34f103c67280fa1f3220e638f6662cae367129ca3ee6abcd6fdbb15da888"
-metafile = true
-
-[[files]]
-file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "267ef1d8c84025c3e53a62f77825a4ce9740f7ca126c1cdd5c660b91cde33889"
 metafile = true
 
 [[files]]
@@ -373,31 +339,91 @@ hash = "d5d9843aaf578017f61d1517f09814178138b1f57ad465336f4ec99e68b066cf"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash-format = "sha256"
-hash = "96a4e9f409468dc526e02c7cbbf2fbdae163033ab4d49793ceac273101ca27fa"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash-format = "sha256"
-hash = "203446e1f625cb134bc07bc12af7ad000d769b1daf029de2b27a7369ed2dc2b7"
-metafile = true
-
-[[files]]
-file = "mods/freecam.pw.toml"
-hash-format = "sha256"
-hash = "7c6505b64ca78939576bcc60cd788b2d4583eb1d8d085e6ca7db05b659c84434"
-metafile = true
-
-[[files]]
-file = "mods/quickskin.pw.toml"
-hash-format = "sha256"
-hash = "dfd2f74d29d16321449b5ce73e903d594645abc9cdcdc0400b22e721785dac4a"
-metafile = true
-
-[[files]]
 file = "mods/japaniture.pw.toml"
 hash-format = "sha256"
 hash = "578f74155dda19dc47e3b62ac2cc259aea7a01f8e10b7002d6ddaab08c811667"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash-format = "sha256"
+hash = "7ab75fc77f2304df6b57ea3ac253f7cfd2cb1a83ea83f8e7330f6ccd167fec9e"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash-format = "sha256"
+hash = "95c1315c7a87e7fc014c8c946b987442b44bff8d2cd7b03b152864e7540ef195"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash-format = "sha256"
+hash = "0a2e3d897afbc37fca9be10167b6c4ebdc648e3df408b6d8acb309e63be50c2f"
+metafile = true
+
+[[files]]
+file = "mods/lr-tactical.pw.toml"
+hash-format = "sha256"
+hash = "1b3e8f6c401092e40d2fc545cdbca76e25ccc0b78f63cd26ba23152297bc456a"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash-format = "sha256"
+hash = "9dbf17aff4b89806b5fa06829a6ca8327d6eaedddbd4ac5a7055e07903be72a6"
+metafile = true
+
+[[files]]
+file = "mods/Embeddium.pw.toml"
+hash-format = "sha256"
+hash = "ce274cb7c496556cb0d21852de39d7660ea5a4995904748ebd3ca46554e1ad39"
+metafile = true
+
+[[files]]
+file = "mods/CMDCam.pw.toml"
+hash-format = "sha256"
+hash = "ecdfef1418133c72fb5a43a5f123daf84b1d86eac8dcd7a4609c32327561ca93"
+metafile = true
+
+[[files]]
+file = "mods/Forgematica.pw.toml"
+hash-format = "sha256"
+hash = "5764e684b40e01fca5cf53ca42631a1880a6c658055cdd9137bc3c8eff2978cb"
+metafile = true
+
+[[files]]
+file = "mods/Oculus.pw.toml"
+hash-format = "sha256"
+hash = "b34bf6cefca3ec5b0e02b3f520621160a7f25e975cc068b02fd00e92ef984ff4"
+metafile = true
+
+[[files]]
+file = "mods/JourneyMap.pw.toml"
+hash-format = "sha256"
+hash = "87a3f9d3b23dbfbd6e170c4626a1e74056cf5586d0935d393f3576bca55ec3a2"
+metafile = true
+
+[[files]]
+file = "mods/Jade.pw.toml"
+hash-format = "sha256"
+hash = "ba5d10b6923f43d342d6dd77f1b05f223309e3dfa7d3c7d523650d7f870700bb"
+metafile = true
+
+[[files]]
+file = "mods/Freecam.pw.toml"
+hash-format = "sha256"
+hash = "5c95abd19478367d3ee29f14122354c385fe1d1b93601e25fb67d17b69d232a1"
+metafile = true
+
+[[files]]
+file = "mods/Quick-Skin.pw.toml"
+hash-format = "sha256"
+hash = "f04ae031f1c99f3aa59e6e0c29b20a4d43df4285047a136492d3b0da67a85e42"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash-format = "sha256"
+hash = "317d6f26dd40df46881c0012e0c951014b6946adc228ef15ef82ed74ac847e4f"
 metafile = true
