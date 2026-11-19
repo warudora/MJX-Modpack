@@ -411,12 +411,6 @@ hash = "ba5d10b6923f43d342d6dd77f1b05f223309e3dfa7d3c7d523650d7f870700bb"
 metafile = true
 
 [[files]]
-file = "mods/Freecam.pw.toml"
-hash-format = "sha256"
-hash = "5e44fd3859e4a6c2335de0ecfdd54da4676f95dac89c2e7d0e3bb3c94b6e0cf3"
-metafile = true
-
-[[files]]
 file = "mods/Quick-Skin.pw.toml"
 hash-format = "sha256"
 hash = "f04ae031f1c99f3aa59e6e0c29b20a4d43df4285047a136492d3b0da67a85e42"
@@ -426,4 +420,10 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash-format = "sha256"
 hash = "317d6f26dd40df46881c0012e0c951014b6946adc228ef15ef82ed74ac847e4f"
+metafile = true
+
+[[files]]
+file = "mods/Freecam.pw.toml"
+hash-format = "sha256"
+hash = "5c95abd19478367d3ee29f14122354c385fe1d1b93601e25fb67d17b69d232a1"
 metafile = true
