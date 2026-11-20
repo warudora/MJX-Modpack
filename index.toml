@@ -321,11 +321,6 @@ hash = "fad42cf1625fd8593e35ee57a03c8be815e3d72dd91c69107eb58fe54af4bce5"
 metafile = true
 
 [[files]]
-file = "mods/quick-skin.pw.toml"
-hash = "069082268d51ce992e1e5321e5dd16fc44ef605cb26e202847249b927ee0ace8"
-metafile = true
-
-[[files]]
 file = "mods/reforgedplay-mod.pw.toml"
 hash = "4712c9880583b14182aa4017bbcb42aa4b0d58b4f895a7dd0e19cf61e34d32c7"
 metafile = true
