@@ -422,3 +422,9 @@ metafile = true
 file = "mods/mjxservice-1.1.4.jar"
 hash-format = "sha256"
 hash = "1fc326f6d0fd379af349438ade352a08090e1a300164bc75cc71867c340f9b01"
+
+[[files]]
+file = "mods/Farmer-s-Delight.pw.toml"
+hash-format = "sha256"
+hash = "f6c0e56abfc7373f825c0462d70227254749690fb97c9286617bf60d757b8ab3"
+metafile = true
