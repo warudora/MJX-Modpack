@@ -1,13 +1,13 @@
 name = "WaBlock - 日本建材 Japanese Building Materials"
-filename = "wablock-1.20.1-1.0.1.jar"
+filename = "wablock-1.20.1-2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "907d688436c07f858d012283ba244f9fbe20d5fb"
+hash = "409abc6ddc9325bac1896c2f704749fc6b085f5f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9096301
+file-id = 9693209
 project-id = 1689456

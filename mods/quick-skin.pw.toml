@@ -1,13 +1,17 @@
 name = "Quick Skin"
-filename = "Quick Skin - Forge - 1.20.1-3.0.1.jar"
+filename = "Quick Skin - Forge - 1.20.1-4.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zAIE84Ch/versions/X7zqa9Ww/Quick%20Skin%20-%20Forge%20-%201.20.1-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/zAIE84Ch/versions/d5H89YqA/Quick%20Skin%20-%20Forge%20-%201.20.1-4.1.0.jar"
 hash-format = "sha512"
-hash = "925f763fe37b4aa7e40b48eda5c1da7e73089fa316a92fae0bd75e4b11f73947198192d1196c6c24cee69562a283eb6bb59c27064e88982f8f2cee90a6ca4807"
+hash = "efde889d33a0fd31e59218969c0d6a511396566b2049ed4db065a1aaa52b21a967052717aacea77eda5dc99b369d6f58425aa99aa642d16dcd0f8bbf1bf7b05b"
 
-[update]
 [update.modrinth]
 mod-id = "zAIE84Ch"
-version = "X7zqa9Ww"
+version = "d5H89YqA"
+
+[option]
+optional = true
+default = false
+description = "Sick of wasting time with Minecraft’s slow launcher just to change your skin? Quick Skin lets you swap skins instantly even on “offline” servers and gives you access to every official Minecraft cape."
